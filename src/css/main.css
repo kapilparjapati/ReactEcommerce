@@ -1,0 +1,12 @@
+.ecomm{width: 30%;}
+.navbar{background-color: #000;}
+.navbar-nav li a{color: #fff!important; font-size: 20px;}
+.navbar-nav li{margin-right: 20px;}
+footer{background-color: #000; margin-top: 10px; padding: 20px 0px;}
+.copyright p{color: #fff; font-size: 20px; margin-bottom: 0px;}
+.copyright p a{color: #fff; text-decoration: none;}
+.footer-link ul{display: flex; list-style-type: none; justify-content: flex-end; margin-bottom: 0px;}
+.footer-link ul li{ margin-right: 20px;	 }
+.footer-link ul li a{color: #fff; text-decoration: none; font-size: 20px}
+.add-cart{display: inline-block; background-color: #000; color: #fff; text-decoration: none; padding: 10px 27px;}
+.add-cart:hover{color: #fff;}
